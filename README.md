@@ -1,5 +1,9 @@
 ### Hi there 👋
-I am Emir.
+👻 I am Emir.
+👦 I am a freshman at Bilkent University.
+💻 I have some experience in Coding.
+🌱 I’m currently learning Java.
+
 
 <!--
 **akayemir/akayemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
