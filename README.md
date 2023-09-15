@@ -1,7 +1,10 @@
 ### Hi there 👋
 👻 I am Emir.
+
 👦 I am a freshman at Bilkent University.
+
 💻 I have some experience in Coding.
+
 🌱 I’m currently learning Java.
 
 
